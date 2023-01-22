@@ -23,8 +23,8 @@
     <loc>https://megasmidge.com/tags/untagged/</loc>
     <lastmod>2023-01-21T17:08:40-08:00</lastmod>
   </url><url>
-    <loc>https://megasmidge.com/posts/creation-dun-nouveau-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://megasmidge.com/about/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://megasmidge.com/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -32,13 +32,7 @@
     <loc>https://megasmidge.com/series/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://megasmidge.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://megasmidge.com/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://megasmidge.com/posts/debuter-avec-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://megasmidge.com/tags/development/</loc>
@@ -56,17 +50,11 @@
     <loc>https://megasmidge.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://megasmidge.com/posts/introduction-aux-modeles-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://megasmidge.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://megasmidge.com/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://megasmidge.com/posts/migrer-vers-hugo-depuis-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://megasmidge.com/blog/</loc>
   </url>
