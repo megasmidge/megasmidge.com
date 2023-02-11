@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entertainment on MegaSmidge</title>
+    <link>https://megasmidge.com/tags/entertainment/</link>
+    <description>Recent content in Entertainment on MegaSmidge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;CC BY-NC 4.0</copyright>
+    <lastBuildDate>Fri, 10 Feb 2023 19:29:11 -0800</lastBuildDate><atom:link href="https://megasmidge.com/tags/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Finally Tried PopOS</title>
+      <link>https://megasmidge.com/posts/i-finally-tried-popos/</link>
+      <pubDate>Fri, 10 Feb 2023 19:29:11 -0800</pubDate>
+      
+      <guid>https://megasmidge.com/posts/i-finally-tried-popos/</guid>
+      <description>I bit the bullet and installed Fedora on my tower. I mirrored everything I did on the XPS-15, including the setup for DBD, and it ran just terribly. It has something to do with the Nvidia drivers not playing well with Fedora. The GPU is an RTX 2060, but that&amp;rsquo;s way better than an integrated graphics driver on a laptop, or so I thought. Launching DBD took forever. I tried several YouTube videos and tutorials explaining how to install the drivers on Fedora, but each attempt ended worse than the one before it.</description>
+    </item>
+    
+  </channel>
+</rss>
